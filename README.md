@@ -1,3 +1,3 @@
 # hello-world
-ideas and resources
-ncedwards here. A cardiologist learning to code.
+ideas and resources.
+A cardiologist learning to code.
